@@ -11,12 +11,5 @@ public void ts1() {
 public void ts2() {
 	System.out.println("==TS2===");
 }
-	@Test(groups={"smoke"})
-public void ts3() {
-	System.out.println("=TS 3===");
-}
-	private void sysout() {
-		// TODO Auto-generated method stub
 
-	}
 }
