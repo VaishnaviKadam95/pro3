@@ -15,8 +15,5 @@ public void ts2() {
 public void ts3() {
 	System.out.println("=TS 3===");
 }
-	@Test(groups={"regression"})
-	public void ts4() {
-		System.out.println("==TS 4===");
-	}
+	
 }
